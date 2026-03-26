@@ -1,0 +1,19 @@
+:root{
+    --section-gap:2.5rem;
+    --card-radius:1rem;
+}
+.section{margin-block:var(--section-gap);}
+
+.spacer-xs{height:.5rem!important;}
+
+.block-container {
+    /* ② add horizontal + bottom padding so widgets breathe */
+    /* tweak to match nav gutters  */
+    /* optional – for symmetry     */
+    padding: 0 2rem 2rem !important;
+
+    /* ③ centre the whole page and cap its width on very wide screens */
+    max-width: 1200px;                /* ≈ Bootstrap “container-lg”  */
+    margin-left: auto;
+    margin-right: auto;
+}

@@ -1,0 +1,10 @@
+.stApp {
+    background: linear-gradient(135deg,#2e7bcf 0%,#ac2b4d 100%) !important;
+    min-height: 100vh;
+}
+
+.stApp > div:first-child {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

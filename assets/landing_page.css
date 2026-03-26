@@ -1,0 +1,57 @@
+.st-key-nav-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+[data-testid="stBaseButton-secondary"] {
+  color: #2563eb;
+  border-color: #2563eb;
+}
+
+[data-testid="stBaseButton-secondary"]:hover {
+  color: #ffffff;
+  background-color: #2563eb;
+  border-color: #ffffff;
+}
+
+.st-emotion-cache-rra9ig {
+  gap: 2rem;
+  flex-wrap: nowrap;
+}
+
+.st-emotion-cache-1dj3ksd {
+  background-color: #2563eb;
+}
+
+.st-emotion-cache-b92z60 {
+  color: #2563eb;
+}
+
+.st-emotion-cache-9fqyt2 h3 {
+  text-align: center;
+}
+
+.st-key-main {
+  padding: 2% 10%;
+  background: linear-gradient(to right, #eff6ff, #e0e7ff);
+}
+
+.stMainBlockContainer {
+  padding: 0 0 10rem;
+}
+
+.st-key-nav {
+  padding-left: 8rem;
+  padding-right: 8rem;
+}
+
+.st-key-analytics {
+  padding-left: 6rem;
+  padding-right: 6rem;
+}
+
+.st-key-start-journey {
+  border: #2563eb;
+  color: #2563eb;
+}
