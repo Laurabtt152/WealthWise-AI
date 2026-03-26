@@ -1,0 +1,13 @@
+streamlit~=1.47.0
+plotly
+google-cloud-aiplatform
+openai
+pycountry~=24.6.1
+pillow~=11.3.0
+google~=3.0.0
+protobuf~=6.31.1
+Babel
+psycopg2
+streamlit_extras
+fpdf
+deep-translator
